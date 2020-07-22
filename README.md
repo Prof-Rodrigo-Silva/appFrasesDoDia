@@ -14,7 +14,7 @@ frases_do_dia
 
 This application project that generates random phrases as the button clicks. Development study project using Flutter.
 
-<img src:"https://github.com/Prof-Rodrigo-Silva/appFrasesDoDia/blob/master/1.png"/>
+<img=src:"https://github.com/Prof-Rodrigo-Silva/appFrasesDoDia/blob/master/1.png">
 
 ##**About Flutter**
 Some resources for a Flutter project :hammer: :
