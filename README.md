@@ -4,9 +4,9 @@ frases_do_dia
 
 <img src="https://img.shields.io/static/v1?label=version&message=v1.0&color=success&style=flat"/>
 <img src="https://img.shields.io/static/v1?label=build&message=passing&color=success&style=flat"/>
-[![GitHub issues](https://img.shields.io/github/issues/Prof-Rodrigo-Silva/appFrasesDoDia)](https://github.com/Prof-Rodrigo-Silva/appFrasesDoDia/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Prof-Rodrigo-Silva/appFrasesDoDia)](https://github.com/Prof-Rodrigo-Silva/appFrasesDoDia/network)
-[![GitHub stars](https://img.shields.io/github/stars/Prof-Rodrigo-Silva/appFrasesDoDia)](https://github.com/Prof-Rodrigo-Silva/appFrasesDoDia/stargazers)
+<a href="https://github.com/Prof-Rodrigo-Silva/appFrasesDoDia/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Prof-Rodrigo-Silva/appFrasesDoDia"></a>
+<a href="https://github.com/Prof-Rodrigo-Silva/appFrasesDoDia/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Prof-Rodrigo-Silva/appFrasesDoDia"></a>
+<a href="https://github.com/Prof-Rodrigo-Silva/appFrasesDoDia/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Prof-Rodrigo-Silva/appFrasesDoDia"></a>
 
 
 **Project Status: Concluded** :heavy_check_mark:
