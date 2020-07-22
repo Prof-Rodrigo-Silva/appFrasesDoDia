@@ -10,13 +10,14 @@ frases_do_dia
 
 **Project Status: Concluded** :heavy_check_mark:
 
-##**Description**
+## **Description**
 
 This application project that generates random phrases as the button clicks. Development study project using Flutter.
 
 <img src="https://github.com/Prof-Rodrigo-Silva/appFrasesDoDia/blob/master/1.png">
 
-##**About Flutter**
+## **About Flutter**
+
 Some resources for a Flutter project :hammer: :
 
 - [Lab: write your first Flutter application] (https://flutter.dev/docs/get-started/codelab)
